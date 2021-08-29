@@ -22,5 +22,10 @@
   "homepage": "https://github.com/codenameabel/shop-shop#readme",
   "devDependencies": {
     "concurrently": "^6.2.1"
+  },
+  "dependencies": {
+    "react-redux": "^7.2.4",
+    "redux": "^4.1.1",
+    "redux-persist": "^6.0.0"
   }
 }
